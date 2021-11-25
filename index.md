@@ -23,7 +23,21 @@
 
 僕のヒーローアカデミア
 
+鬼滅の刃
 
-### Support or Contact
+五等分の花嫁
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+進撃の巨人
+
+終わりのセラフ
+
+キングダム
+
+怪獣8号
+
+推しの子
+
+### 将来にやりたいこと
+
+将来は、SEになりたいと思っています。特に、ゲーム関連のシステムエンジニアに
+なってみたいと思っています
